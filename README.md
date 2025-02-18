@@ -81,4 +81,4 @@ The break down of the final provided CNN architecture step by step:
 
 ## Collaborators
 
-Created by [@Kartikey kunal(https://github.com/kunal-kartik919)
+Created by [@Kartikey Kunal](https://github.com/kunal-kartik919)
