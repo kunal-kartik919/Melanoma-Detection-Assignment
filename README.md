@@ -1,3 +1,6 @@
 # Melanoma-Detection-Assignment
-Assignment to detect Skin cancer by Kartikey Kunal - Accu - 80%
+Assignment to detect Skin cancer by Kartikey Kunal - Accu - 80%'
+
 Platform used - Kaggle
+
+Dataset - https://www.kaggle.com/datasets/kartikeykunal/skin-cancer-dataset
