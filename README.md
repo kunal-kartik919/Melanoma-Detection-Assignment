@@ -25,14 +25,13 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 The dataset comprises 2357 images depicting malignant and benign oncological conditions, sourced from the International Skin Imaging Collaboration (ISIC). These images were categorized based on the classification provided by ISIC, with each subset containing an equal number of images.
 
 ![datasetgraph](![image](https://github.com/user-attachments/assets/a09ae94e-a976-423f-96bb-913a47a4de5b)
-)
 
 In order to address the challenge of class imbalance, the Augmentor Python package (https://augmentor.readthedocs.io/en/master/) was employed to augment the dataset. This involved generating additional samples for all classes, ensuring that none of the classes had insufficient representation.
 
 ## Pictorial representation of skin types
 
 ![skincancertypes](![image](https://github.com/user-attachments/assets/22aa899d-5f7d-40f6-9398-0d3a686171db)
-)
+
 
 The aim of this task is to assign a specific class label to a particular type of skin cancer.
 
@@ -67,7 +66,6 @@ The break down of the final provided CNN architecture step by step:
 ## Model Evaluation
 
 ![Model Evaluation](![image](https://github.com/user-attachments/assets/07b113dc-78fc-44c0-a12c-b890785a53cc)
-)
 
 ## Technologies Used
 
